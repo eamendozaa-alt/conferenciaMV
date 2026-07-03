@@ -9,25 +9,25 @@
   "theme_color": "#7f1d1d",
   "icons": [
     {
-      "src": "https://i.imgur.com/L91nWyT.png",
+      "src": "https://github.com/eamendozaa-alt/conferenciaMV/blob/main/icon-192x192.png?raw=true",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://i.imgur.com/L91nWyT.png",
+      "src": "https://github.com/eamendozaa-alt/conferenciaMV/blob/main/icon-192x192.png?raw=true",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://i.imgur.com/rP67m12.png",
+      "src": "https://github.com/eamendozaa-alt/conferenciaMV/blob/main/icon-512x512.png?raw=true",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://i.imgur.com/rP67m12.png",
+      "src": "https://github.com/eamendozaa-alt/conferenciaMV/blob/main/icon-512x512.png?raw=true",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
