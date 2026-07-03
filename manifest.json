@@ -1,33 +1,33 @@
 {
-  "name": "CONFERENCIA HV",
-  "short_name": "HV",
-  "description": "Conferencia Hombres de valor",
-  "start_url": "https://cnc.knack.com/hombres-vencedores#inicio/",
+  "name": "CONFERENCIA MV",
+  "short_name": "MV",
+  "description": "Conferencia Mujeres Reinas",
+  "start_url": "https://cnc.knack.com/conferencia-de-mujeres#inicio/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#7f1d1d",
   "theme_color": "#7f1d1d",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_192.png",
+      "src": "https://i.imgur.com/J0bIByr.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_192.png",
+      "src": "https://i.imgur.com/J0bIByr.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_512.png",
+      "src": "https://i.imgur.com/J0bIByr.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_512.png",
+      "src": "https://i.imgur.com/J0bIByr.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
