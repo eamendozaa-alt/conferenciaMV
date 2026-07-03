@@ -1,0 +1,36 @@
+{
+  "name": "CONFERENCIA HV",
+  "short_name": "HV",
+  "description": "Conferencia Hombres de valor",
+  "start_url": "https://cnc.knack.com/hombres-vencedores#inicio/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#7f1d1d",
+  "theme_color": "#7f1d1d",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/eamendozaa-alt/ConferenciaHV/refs/heads/main/hv_icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
